@@ -1,37 +1,38 @@
-body{
+body {
 	font-family: 'Lato', sans-serif;
-	color:#2d3c49;
+	color: #2d3c49;
 }
 
-.text-thin{
-	font-weight:300;
+.text-thin {
+	font-weight: 300;
 }
 
-.text-biggest{
-	font-size:48px;
+.text-biggest {
+	font-size: 48px;
 }
 
-.text-big{
-	font-size:36px;
-}
-.text-muted{
-	color:#747704;
-}
-.text-gray{
-	color:#7d97ad;
+.text-big {
+	font-size: 36px;
 }
 
-.logo{
-	margin-top:20px;
-	max-width:75px;
-	max-height:75px;
+.text-muted {
+	color: #747704;
 }
 
-hr{
-	border:2px solid #7d97ad;
-
+.text-gray {
+	color: #7d97ad;
 }
 
-h4{
-	font-size:24px;
+.logo {
+	margin-top: 20px;
+	max-width: 75px;
+	max-height: 75px;
+}
+
+.hr-rule {
+	border-bottom: 2px solid #7d97ad;
+}
+
+h4 {
+	font-size: 24px;
 }
